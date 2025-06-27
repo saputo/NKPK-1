@@ -1,0 +1,22 @@
+# JUCE/C++ Build Artefacts
+Builds/
+build/
+*.build/
+
+# Visual Studio specific
+.vs/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.suo
+*.user
+*.vcxproj.user
+*.sln.docstates
+
+# macOS specific
+.DS_Store
+xcuserdata/
+
+# Other common temporary files
+*.tmp
+*.bak
