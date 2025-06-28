@@ -1,4 +1,4 @@
-# NKPK-1 Synth Plugin
+# NKPK-1 Synth
 
 **Version 1.1.0**
 
