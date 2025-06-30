@@ -5,6 +5,8 @@
               companyName="NKS">
   <MAINGROUP id="xEvgIP" name="NKPK-1">
     <GROUP id="{2C21F406-08E6-E584-B9AD-AF5C5C0F3259}" name="Source">
+      <FILE id="BYIY9m" name="PluginFactory.cpp" compile="1" resource="0"
+            file="Source/PluginFactory.cpp"/>
       <FILE id="MwX46U" name="SynthVoice.cpp" compile="1" resource="0" file="Source/SynthVoice.cpp"/>
       <FILE id="X8ixM5" name="SynthVoice.h" compile="0" resource="0" file="Source/SynthVoice.h"/>
       <FILE id="Hl48ZJ" name="Oscillator.cpp" compile="1" resource="0" file="Source/Oscillator.cpp"/>
